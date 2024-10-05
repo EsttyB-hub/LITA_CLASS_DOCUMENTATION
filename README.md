@@ -6,7 +6,6 @@
 Pivot table is a data Summarized table.
 
 ### Tools used
----
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For data cleaning
   2. For Analysis

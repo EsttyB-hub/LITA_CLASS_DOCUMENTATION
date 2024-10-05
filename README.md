@@ -14,4 +14,5 @@ Pivot table is a data Summarized table.
 - SQL- Structered Query Language
 - GitHub for Portflio Building
 
+
 ### Data Cleaning and Preparation

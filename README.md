@@ -1,6 +1,6 @@
 # LITA_CLASS_DOCUMENTATION
 
-## Project Title: Pivot Table
+## Project Title: Basics of Data Analysis
 
 [Project Overview](#project-overview)
 
@@ -9,7 +9,10 @@
 [Data Analysis](#data-analysis)
 
 ### Project Overview
-Pivot table is a data Summarized table.
+This Project covers the foundations of Data, Data generationn, Data Structure, Data Analysis life cycle, Importance of Data Analysis, Skills required for Data Analysis and Career paths in Data Analysis.
+
+### Project Objective
+This project is aimed to briefly explain the above sub- topics listed in the Project Overview
 
 ### Tools used
 - Microsoft Excel [Download Here](https://www.microsoft.com)

@@ -4,9 +4,15 @@
 
 [Project Overview](#project-overview)
 
-[Tools used](#tools-used)
+[Project Objective](#Project-Objective)
 
 [Data Analysis](#data-analysis)
+
+[Intoduction](#Introduction)
+
+[Project Body](#Project-Body)
+
+[Conclusion](#Conclusion)
 
 ### Project Overview
 This Project covers the foundations of Data, Data generationn, Data Structure, Data Analysis life cycle, Importance of Data Analysis, Skills required for Data Analysis and Career paths in Data Analysis.
@@ -33,8 +39,17 @@ This project is aimed to briefly explain the above sub- topics listed in the Pro
   3. Modelling
   4. Visualization
   5. Analysis
-  6. Presentation 
+  6. Presentation
+ 
+#### Importance of Data Analysis
+- It helps the organizaation to make decisions based on actual data rather than intuition or guess work.
+- It helps to identifies bottlenecks and inefficiencies in processes leading to optimization and cost reduction.
+- It helps in better allocation of resources based on data insights, maximizing productivity.
+- It helps to predicts future trends and outcomes, allowing business to prepare and strategize accordingly.
+- It helps to identifies new opportunities for product and serice innovation through analysis of market and consumer data
 
+### Conclusion
+- At the end of the 
 ### Tools used
 - Microsoft Excel [Download Here](https://www.microsoft.com)
   1. For data cleaning

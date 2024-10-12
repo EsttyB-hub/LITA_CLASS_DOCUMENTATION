@@ -22,9 +22,11 @@ This project is aimed to briefly explain the above sub- topics listed in the Pro
 
 ### Introduction
 - Data Analysis inovoles inspecting, cleansing, transforming and modelling data to discoer useful information, draw conclusions and support decision making.
+
+
 ### Project Body
 #### Foundations of Data
-- Data Literacy
+- DATA LITERACY
 - Data Generation: This deals with how data is set and ways to store data which can be done on;
   1. premises i.e within the wall of an organization e.g Excel
   2. In the Cloud i.e Data centre e.g Microsoft Oracle
@@ -48,30 +50,26 @@ This project is aimed to briefly explain the above sub- topics listed in the Pro
 - It helps to predicts future trends and outcomes, allowing business to prepare and strategize accordingly.
 - It helps to identifies new opportunities for product and serice innovation through analysis of market and consumer data
 
+#### Skills required for Data Analysis
+- Technical skill
+  1. Python
+  2. Excel
+  3. R Language
+  4. SQL
+- Data Visualization
+  1. Tableau
+  2. Power BI
+- Critical Thinking
+- Data wrangling and cleaning
+- Communication skills
+
+#### Career paths in Data Analysis
+- Data Analyst
+- Data Scientist
+- Data Engineer
+- Business Analyst
+- Database Administrator
+
 ### Conclusion
-- At the end of the 
-### Tools used
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. For data cleaning
-  2. For Analysis
-  3. For Data Visualization
-- Pivot Table
-- SQL- Structered Query Language
-- GitHub for Portflio Building
+- This project covers the basic knowledge of Data Analysis as this will enable the readers to know what Data Analysis entails.
 
-
-### Data Cleaning and Preparation
-
-### Data Analysis
-
-``` SQL
-SELECT * FROM TABLE1
-WHERE CONDITION = TRUE
-```
-![Screenshot (1)](https://github.com/user-attachments/assets/6d351b2c-12cd-4fd0-8e9d-8151ebcd177c)
-
-😆
-📱
-|Heading 1|Heading 2|Heading 3|
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|

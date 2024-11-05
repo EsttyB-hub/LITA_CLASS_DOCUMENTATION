@@ -21,12 +21,15 @@ This Project covers the foundations of Data, Data generationn, Data Structure, D
 This project is aimed to briefly explain the above sub- topics listed in the Project Overview.
 
 ### Introduction
-- Data Analysis inovoles inspecting, cleansing, transforming and modelling data to discoer useful information, draw conclusions and support decision making.
+
+Data Analysis involves inspecting, cleansing, transforming and modelling data to discoer useful information, draw conclusions and support decision making.
 
 
 ### Project Body
 #### Foundations of Data
-- DATA LITERACY
+
+ DATA LITERACY
+ 
 - Data Generation: This deals with how data is set and ways to store data which can be done on;
   1. premises i.e within the wall of an organization e.g Excel
   2. In the Cloud i.e Data centre e.g Microsoft Oracle

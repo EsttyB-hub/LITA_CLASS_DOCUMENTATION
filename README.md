@@ -74,5 +74,5 @@ Data Analysis involves inspecting, cleansing, transforming and modelling data to
 - Database Administrator
 
 ### Conclusion
-- This project covers the basic knowledge of Data Analysis as this will enable the readers to know what Data Analysis entails.
+This project covers the basic knowledge of Data Analysis as this will enable the readers to know what Data Analysis entails.
 
